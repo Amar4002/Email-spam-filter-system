@@ -1,2 +1,0 @@
-Conclusion
-In this article, we walked through a simple yet effective implementation of a Naïve Bayes classifier for spam detection in C++. We covered the key concepts, code structure, and provided detailed explanations of each part of the code. With this knowledge, you can now experiment with your own datasets and enhance the classifier further. Happy coding!
